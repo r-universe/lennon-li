@@ -5,3 +5,6 @@
 [submodule "courieR"]
 	path = courieR
 	url = https://github.com/lennon-li/courier
+[submodule "dataganger"]
+	path = dataganger
+	url = https://github.com/lennon-li/dataganger
